@@ -1,1 +1,1 @@
-# ncssmmlclub.github.io
+# NCSSM ML Club website
