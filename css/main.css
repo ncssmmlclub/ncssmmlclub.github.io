@@ -35,3 +35,11 @@ body, html {
 .profile {
   display: block;
 }
+
+.jumbotron {
+  text-align: center;
+}
+
+.tab-pane {
+  text-align: left;
+}
