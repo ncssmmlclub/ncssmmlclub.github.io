@@ -3,7 +3,6 @@
 body, html {
     margin: 0;
     padding: 0;
-    overflow-x: hidden !important;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -25,4 +24,14 @@ body, html {
   text-decoration: none;
   margin: 5px;
   color: #4D4D4D;
+}
+
+.circle {
+  width: 80px;
+  margin: 15px;
+  border-radius: 50%;
+}
+
+.profile {
+  display: block;
 }
