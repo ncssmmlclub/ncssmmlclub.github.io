@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://wheelermlclub.github.io/wheeler-ml-club/sitemap.xml
