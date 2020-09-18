@@ -43,3 +43,13 @@ body, html {
 .tab-pane {
   text-align: left;
 }
+
+.footer {
+    width: 100%;
+    background-color: #e9ecef;
+}
+
+.footer-content {
+  text-align: center;
+  padding: 20px;
+}
